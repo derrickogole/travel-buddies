@@ -1,2 +1,2 @@
-# travelbuddy
+# travelbuddies
 Travel startup website
